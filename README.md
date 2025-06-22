@@ -36,6 +36,4 @@ The function performs the following steps:
 4. Saves the two parts as `part1.pdf` and `part2.pdf` in the specified output directory.
 
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
